@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimaryDark" />
+    <size
+        android:width="60dp"
+        android:height="15dp" />
+    <!-- 设置描边 -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/colorPrimaryDark"></stroke>
+
+    <corners android:radius="17dp" />
+</shape>

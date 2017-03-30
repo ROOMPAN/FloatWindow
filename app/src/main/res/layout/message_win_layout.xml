@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent">
+
+    <ImageView
+        android:id="@+id/image_shows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:src="@mipmap/icon_float_indicator" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/image_shows"
+        android:layout_toRightOf="@+id/image_shows"
+        android:background="@drawable/float_corners_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="5dp"
+                android:layout_height="28dp" />
+
+            <com.android.widgets.PagerSlidingTabStrip
+                android:id="@+id/fragment_home_tab_pagertab"
+                android:layout_width="match_parent"
+                android:layout_height="28dp"
+                android:layout_below="@+id/home_page_view"
+                android:layout_weight="5"
+                android:background="@color/text_black"
+                app:pastsDividerWidth="50dp"
+                app:pstsDividerColor="@color/text_black"
+                app:pstsIndicatorColor="@color/colorPrimaryDark"
+                app:pstsIndicatorHeight="1.5dp"
+                app:pstsShouldExpand="false"
+                app:pstsTabPaddingLeftRight="15dp"
+                app:pstsUnderlineColor="@color/text_black"
+                app:pstsUnderlineHeight="0.5dp"
+                app:zmsSelectedTabTextSize="14dp"
+                app:zmsTabTextSize="14dp">
+
+            </com.android.widgets.PagerSlidingTabStrip>
+
+            <ImageView
+                android:id="@+id/image_exit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:paddingBottom="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:src="@mipmap/float_window_cancel_imageview" />
+        </LinearLayout>
+
+
+        <com.android.widgets.HixgoTabViewpager
+            android:id="@+id/message_view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/fragment_home_tab_pagertab"
+            android:layout_marginTop="8dp">
+
+        </com.android.widgets.HixgoTabViewpager>
+
+    </LinearLayout>
+
+</RelativeLayout>

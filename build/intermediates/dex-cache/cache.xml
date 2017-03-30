@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/e9fed0964f1aabaf8fdb67c9db5b2941ad1d8fc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_28b30b197496cde30204733ec75cc15526b83ce4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/e9fed0964f1aabaf8fdb67c9db5b2941ad1d8fc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28b30b197496cde30204733ec75cc15526b83ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/17bf70a457b9b3a665f80276e3ba3eab74f6b238/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_235369d996105a07a47e010a8af9500a0fefc4d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/7872d4676fb73c41d024a8527b4f526b37bd1827/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_b5a6bfee7c173c7427f63b6ff2ff200e23f23fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/17bf70a457b9b3a665f80276e3ba3eab74f6b238/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_235369d996105a07a47e010a8af9500a0fefc4d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d5af4b01f0af09f3f4566b272b4b206aa6abc3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/7872d4676fb73c41d024a8527b4f526b37bd1827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5a6bfee7c173c7427f63b6ff2ff200e23f23fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8c7bd235f75e64b2d6e57b78a5b796b80491c80">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ebc10970dc9d7881a278fdcef9bd47f1c7527a63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/d1253c75ff1900fb62591d797125d78a71dd046e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_c21ee09db5e88fdd8f03f31773d93bb8588fc0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/3903605df99510924d705f531f162c387e9d1f32/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_883dfa31372fef8b7ce5c070a3126403aa15a12a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/17bf70a457b9b3a665f80276e3ba3eab74f6b238/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5a6c1046b27f761e076d0e5433591e81549485e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/d1253c75ff1900fb62591d797125d78a71dd046e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c21ee09db5e88fdd8f03f31773d93bb8588fc0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/3903605df99510924d705f531f162c387e9d1f32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_359f88536cfa968c70619759738f65a219a90155/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/haha-2.0.3_cbf7df334c608195e1d75d212c07cdc1d2cea67d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/639036eef7712db086b3037f7616097001c0095e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6ac3ec49a732084f76d31209a9b567a8e5242d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-2.0.3_cbf7df334c608195e1d75d212c07cdc1d2cea67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/3903605df99510924d705f531f162c387e9d1f32/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_883dfa31372fef8b7ce5c070a3126403aa15a12a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/17bf70a457b9b3a665f80276e3ba3eab74f6b238/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_b5a6c1046b27f761e076d0e5433591e81549485e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/399d9fd16dbe31377bf961b4cd7fd4540cf6a949/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_d1472b6fa26fda6ad28192fc4d01a2b103e5fb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/e0640b7aa6fd5a1bac18af62e45d6bb1e5a839e2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3fc37a8493db358e03ee2d2f2bee3d95a899ad10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/639036eef7712db086b3037f7616097001c0095e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_a6ac3ec49a732084f76d31209a9b567a8e5242d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/2598e68f40b186505cdd68b4dc3f7c0ba46a54e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d25460bbb016737aeaa4f16a3b14dca643b8091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/db944f9044056ab586e67761c2cefb04755023a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f9b75c88159beaa94279bfc473fff524407280b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.5_7288c8bef80fbb332c348200db2e7077392c8c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/3903605df99510924d705f531f162c387e9d1f32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_359f88536cfa968c70619759738f65a219a90155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/e9fed0964f1aabaf8fdb67c9db5b2941ad1d8fc7/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a7b10452bd25cca7f5285a439c2682a3bbd76675.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/639036eef7712db086b3037f7616097001c0095e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8cd48ced4616356c6133f4239e8816d741632c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_7288c8bef80fbb332c348200db2e7077392c8c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/db944f9044056ab586e67761c2cefb04755023a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_8f9b75c88159beaa94279bfc473fff524407280b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/639036eef7712db086b3037f7616097001c0095e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8cd48ced4616356c6133f4239e8816d741632c89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/399d9fd16dbe31377bf961b4cd7fd4540cf6a949/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1472b6fa26fda6ad28192fc4d01a2b103e5fb33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/e0640b7aa6fd5a1bac18af62e45d6bb1e5a839e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_bba1001d519d4125aef09a9953b885bc8a6a10cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/e0640b7aa6fd5a1bac18af62e45d6bb1e5a839e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bba1001d519d4125aef09a9953b885bc8a6a10cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.5_887ef0c1f261c34b0a834c9a5c5b892ab128f05e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_887ef0c1f261c34b0a834c9a5c5b892ab128f05e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/e9fed0964f1aabaf8fdb67c9db5b2941ad1d8fc7/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a7b10452bd25cca7f5285a439c2682a3bbd76675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liupanpan/.android/build-cache/e0640b7aa6fd5a1bac18af62e45d6bb1e5a839e2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3fc37a8493db358e03ee2d2f2bee3d95a899ad10/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liupanpan/.android/build-cache/2598e68f40b186505cdd68b4dc3f7c0ba46a54e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/liupanpan/Documents/android_work/FloatWindowPermission-master/FloatWindowPermission/app/build/intermediates/pre-dexed/debug/classes_2d25460bbb016737aeaa4f16a3b14dca643b8091.jar" />
+    </item>
+
+</items>
